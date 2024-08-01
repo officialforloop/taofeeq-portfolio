@@ -1,0 +1,14 @@
+{
+  "name": "ayelotiti-portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tajudeen Mukhtar",
+  "license": "ISC"
+}
